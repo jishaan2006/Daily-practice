@@ -1,4 +1,4 @@
-//7. Cyclically rotate an array by one
+//7. Cyclically rotate an array by one 
 #include<stdio.h>
 #include<stdlib.h>
 int main(){
